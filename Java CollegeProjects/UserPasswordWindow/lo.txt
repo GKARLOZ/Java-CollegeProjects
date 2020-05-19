@@ -1,0 +1,13 @@
+/*import javax.swing.JFrame;
+import javax.swing.JTextField;
+import javax.swing.JPasswordField;
+import javax.swing.JOptionPane;
+import javax.swing.Icon;
+import javax.swing.ImageIcon;
+import javax.swing.JLabel;
+import javax.swing.SwingConstants;
+import javax.swing.JButton;
+*/
+JPanel panel = new JPanel();
+panel.setLayout(null);
+add(panel);
